@@ -135,7 +135,7 @@
          <div type="translation" ana="#b1" xml:id="elal0008.translation" corresp="#elal0008.diplomatic #elal0008.transcription">
             <p> Be of good courage, Zeb..tha(?)! Thirty years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0008-1" xml:lang="grc">θάρ<supplied reason="lost">σει</supplied></w> <orig xml:id="elal0008-2" xml:lang="grc">Ζεβ</orig> <orig xml:id="elal0008-3" xml:lang="grc">θα</orig> <w xml:id="elal0008-4" xml:lang="grc"><expan><abbr>ἐ<supplied reason="lost">τ</supplied></abbr><ex>ῶν</ex></expan></w> <num xml:id="elal0008-5" value="30" xml:lang="grc">λ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0008-001" xml:lang="grc">θάρ<supplied reason="lost">σει</supplied></w> <orig xml:id="elal0008-002" xml:lang="grc">Ζεβ</orig> <orig xml:id="elal0008-003" xml:lang="grc">θα</orig> <w xml:id="elal0008-004" xml:lang="grc"><expan><abbr>ἐ<supplied reason="lost">τ</supplied></abbr><ex>ῶν</ex></expan></w> <num xml:id="elal0008-005" value="30" xml:lang="grc">λ</num></p>
 </div>
 </body>
       <back>

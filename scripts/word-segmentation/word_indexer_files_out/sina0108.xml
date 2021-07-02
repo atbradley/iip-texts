@@ -184,7 +184,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="sina0108-1" xml:lang="grc">Ζε<supplied reason="omitted">δ</supplied>ος</w> <w xml:id="sina0108-2" xml:lang="arc">זי<unclear>דו</unclear></w> <w xml:id="sina0108-3" xml:lang="arc"><unclear>בר</unclear></w> <w xml:id="sina0108-4" xml:lang="arc"><expan><abbr><unclear>פ</unclear></abbr><ex>ציו</ex></expan></w> </p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="sina0108-001" xml:lang="grc">Ζε<supplied reason="omitted">δ</supplied>ος</w> <w xml:id="sina0108-002" xml:lang="arc">זי<unclear>דו</unclear></w> <w xml:id="sina0108-003" xml:lang="arc"><unclear>בר</unclear></w> <w xml:id="sina0108-004" xml:lang="arc"><expan><abbr><unclear>פ</unclear></abbr><ex>ציו</ex></expan></w> </p>
 </div>
 </body>
         <back>

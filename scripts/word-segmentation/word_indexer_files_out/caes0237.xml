@@ -128,7 +128,7 @@
                <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
                <g type="cross">+</g></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0237-1" xml:lang="grc">ΠΑΜ</orig> <orig xml:id="caes0237-2" xml:lang="grc">Πρίσ</orig> <orig xml:id="caes0237-3" xml:lang="grc">ΑΒΗ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0237-001" xml:lang="grc">ΠΑΜ</orig> <orig xml:id="caes0237-002" xml:lang="grc">Πρίσ</orig> <orig xml:id="caes0237-003" xml:lang="grc">ΑΒΗ</orig> </p>
 </div>
 </body>
       <back>

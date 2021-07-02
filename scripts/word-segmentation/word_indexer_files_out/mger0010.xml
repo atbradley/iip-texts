@@ -194,7 +194,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0010-1" xml:lang="arc"><supplied reason="lost">זי</supplied></w> <w xml:id="mger0010-2" xml:lang="arc"><supplied reason="lost">הקר</supplied><unclear>ב</unclear></w> <w xml:id="mger0010-3" xml:lang="arc">אל<unclear>כ</unclear><supplied reason="lost">סנדר</supplied></w> <w xml:id="mger0010-4" xml:lang="arc"><supplied reason="lost">עלוהי</supplied></w> <w xml:id="mger0010-5" xml:lang="arc"><supplied reason="lost">ועל</supplied></w> <w xml:id="mger0010-6" xml:lang="arc"><supplied reason="lost">אנ</supplied><unclear>ת</unclear><unclear>ת</unclear><unclear>ה</unclear></w> </p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mger0010-001" xml:lang="arc"><supplied reason="lost">זי</supplied></w> <w xml:id="mger0010-002" xml:lang="arc"><supplied reason="lost">הקר</supplied><unclear>ב</unclear></w> <w xml:id="mger0010-003" xml:lang="arc">אל<unclear>כ</unclear><supplied reason="lost">סנדר</supplied></w> <w xml:id="mger0010-004" xml:lang="arc"><supplied reason="lost">עלוהי</supplied></w> <w xml:id="mger0010-005" xml:lang="arc"><supplied reason="lost">ועל</supplied></w> <w xml:id="mger0010-006" xml:lang="arc"><supplied reason="lost">אנ</supplied><unclear>ת</unclear><unclear>ת</unclear><unclear>ה</unclear></w> </p>
 </div>
 </body>
         <back>

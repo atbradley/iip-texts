@@ -126,7 +126,7 @@
          <div type="translation" ana="#b1" xml:id="fiqg0018.translation" corresp="#fiqg0018.transcription #fiqg0018.diplomatic">
             <p>Be of good courage,...ontios! (Only) the gods are immortal. Twelve(?) years old.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0018-1" xml:lang="grc"><choice><corr><supplied reason="undefined">θάρ</supplied>σει</corr><sic><supplied reason="undefined">θάρ</supplied>ιει</sic></choice></w> <w xml:id="fiqg0018-2" xml:lang="grc">οντι</w> <w xml:id="fiqg0018-3" xml:lang="grc">οἱ</w> <w xml:id="fiqg0018-4" xml:lang="grc">θεοὶ</w> <w xml:id="fiqg0018-5" xml:lang="grc">ἀθάνατοι</w> <w xml:id="fiqg0018-6" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <num xml:id="fiqg0018-7" value="12" xml:lang="grc">ι<unclear>β</unclear></num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="fiqg0018-001" xml:lang="grc"><choice><corr><supplied reason="undefined">θάρ</supplied>σει</corr><sic><supplied reason="undefined">θάρ</supplied>ιει</sic></choice></w> <w xml:id="fiqg0018-002" xml:lang="grc">οντι</w> <w xml:id="fiqg0018-003" xml:lang="grc">οἱ</w> <w xml:id="fiqg0018-004" xml:lang="grc">θεοὶ</w> <w xml:id="fiqg0018-005" xml:lang="grc">ἀθάνατοι</w> <w xml:id="fiqg0018-006" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <num xml:id="fiqg0018-007" value="12" xml:lang="grc">ι<unclear>β</unclear></num></p>
 </div>
 </body>
       <back>

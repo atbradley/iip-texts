@@ -115,7 +115,7 @@
             <p><orig>ΕΒ</orig><gap reason="lost" unit="character" extent="unknown"/>
                <lb/><orig>Ν<unclear>Ι</unclear></orig><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><orig xml:id="elus0064-1" xml:lang="grc">ΕΒ</orig> <orig xml:id="elus0064-2" xml:lang="grc">Ν<unclear>Ι</unclear></orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p><orig xml:id="elus0064-001" xml:lang="grc">ΕΒ</orig> <orig xml:id="elus0064-002" xml:lang="grc">Ν<unclear>Ι</unclear></orig> </p>
 </div>
 </body>
       <back>

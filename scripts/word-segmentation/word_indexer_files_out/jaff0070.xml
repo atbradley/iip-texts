@@ -191,7 +191,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0070-1" xml:lang="grc">Τόπος</w> <w xml:id="jaff0070-2" xml:lang="grc">Ϲαμωη</w> <w xml:id="jaff0070-3" xml:lang="grc">υἱοῦ</w> <w xml:id="jaff0070-4" xml:lang="grc">Χολβιδια.</w> <w xml:id="jaff0070-5" xml:lang="grc">Ἰρήνη</w> <w xml:id="jaff0070-6" xml:lang="grc">τῷ</w> <w xml:id="jaff0070-7" xml:lang="grc">Ἰστραήλ</w> <w xml:id="jaff0070-8" xml:lang="heb">שלום</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0070-001" xml:lang="grc">Τόπος</w> <w xml:id="jaff0070-002" xml:lang="grc">Ϲαμωη</w> <w xml:id="jaff0070-003" xml:lang="grc">υἱοῦ</w> <w xml:id="jaff0070-004" xml:lang="grc">Χολβιδια.</w> <w xml:id="jaff0070-005" xml:lang="grc">Ἰρήνη</w> <w xml:id="jaff0070-006" xml:lang="grc">τῷ</w> <w xml:id="jaff0070-007" xml:lang="grc">Ἰστραήλ</w> <w xml:id="jaff0070-008" xml:lang="heb">שלום</w></p>
 </div>
 </body>
         <back>

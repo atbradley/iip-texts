@@ -123,7 +123,7 @@
             <p><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><orig>Ω</orig><gap reason="lost" extent="unknown" unit="character"/>
                <lb/><gap reason="lost" extent="unknown" unit="character"/><orig>κνη</orig> <g type="word_separator">·</g> <orig>τε</orig><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0372-1" xml:lang="grc">Ω</orig> <orig xml:id="caes0372-2" xml:lang="grc">κνη</orig>  <orig xml:id="caes0372-3" xml:lang="grc">τε</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0372-001" xml:lang="grc">Ω</orig> <orig xml:id="caes0372-002" xml:lang="grc">κνη</orig>  <orig xml:id="caes0372-003" xml:lang="grc">τε</orig> </p>
 </div>
 </body>
       <back>

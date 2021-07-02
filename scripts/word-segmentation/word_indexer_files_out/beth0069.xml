@@ -130,7 +130,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0069p01">Hananiah </persName>
                <persName xml:lang="hbo " ref="persons.xml#beth0069p02"> Judah</persName>, <rs type="formula" ana="interpretations.xml#shalom">shalom</rs>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0069-1" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0069-2" xml:lang="grc">Ἀνανία</w> <w xml:id="beth0069-3" xml:lang="grc"><unclear>Ἰούδας</unclear></w> <w xml:id="beth0069-4" xml:lang="heb">שלום</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0069-001" xml:lang="grc">Εὐμύρι</w> <w xml:id="beth0069-002" xml:lang="grc">Ἀνανία</w> <w xml:id="beth0069-003" xml:lang="grc"><unclear>Ἰούδας</unclear></w> <w xml:id="beth0069-004" xml:lang="heb">שלום</w></p>
 </div>
 </body>
       <back>

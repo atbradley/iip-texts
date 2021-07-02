@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0062.translation" corresp="#zoor0062.transcription">
             <p>This monument was built by Ulpianus (in the year) 285(?).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0062-1" xml:lang="grc">Τοῦτο</w> <w xml:id="zoor0062-2" xml:lang="grc"><choice><sic>μνημῖον</sic><corr>μνημεῖον</corr></choice></w> <w xml:id="zoor0062-3" xml:lang="grc">Οὐλπιανὸς</w> <w xml:id="zoor0062-4" xml:lang="grc"><expan><abbr>ἐπ</abbr><ex>οίησεν</ex></expan>,</w> <num xml:id="zoor0062-5" xml:lang="grc">πεσʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0062-001" xml:lang="grc">Τοῦτο</w> <w xml:id="zoor0062-002" xml:lang="grc"><choice><sic>μνημῖον</sic><corr>μνημεῖον</corr></choice></w> <w xml:id="zoor0062-003" xml:lang="grc">Οὐλπιανὸς</w> <w xml:id="zoor0062-004" xml:lang="grc"><expan><abbr>ἐπ</abbr><ex>οίησεν</ex></expan>,</w> <num xml:id="zoor0062-005" xml:lang="grc">πεσʹ</num></p>
 </div>
 </body>
       <back>

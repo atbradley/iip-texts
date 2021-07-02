@@ -116,7 +116,7 @@
                <persName xml:lang="grc " ref="persons.xml#beth0254p01">Theodoros</persName>, <rs type="formula" ana="interpretations.xml#shalom">Peace </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0254-1" xml:lang="arc">תדרש</w> <w xml:id="beth0254-2" xml:lang="arc">שלום</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0254-001" xml:lang="arc">תדרש</w> <w xml:id="beth0254-002" xml:lang="arc">שלום</w></p>
 </div>
 </body>
       <back>

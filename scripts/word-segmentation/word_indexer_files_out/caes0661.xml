@@ -139,7 +139,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0661-1" xml:lang="grc"><expan><abbr><hi rend="supraline">Ἰ</hi></abbr><ex>ησοῦ</ex><abbr><hi rend="supraline">ς</hi></abbr></expan></w> <w xml:id="caes0661-2" xml:lang="grc"><supplied reason="lost"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0661-001" xml:lang="grc"><expan><abbr><hi rend="supraline">Ἰ</hi></abbr><ex>ησοῦ</ex><abbr><hi rend="supraline">ς</hi></abbr></expan></w> <w xml:id="caes0661-002" xml:lang="grc"><supplied reason="lost"><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></supplied></w></p>
 </div>
 </body>
         <back>

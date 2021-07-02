@@ -138,7 +138,7 @@
             <p>The tomb of <persName xml:lang="grc " ref="persons.xml#caes0175p01">Alaphtha</persName>....	
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0175-1" xml:lang="grc">θή<unclear>κ</unclear><supplied reason="lost">η</supplied></w> <w xml:id="caes0175-2" xml:lang="grc">Ἀλά<unclear>φ</unclear><supplied reason="lost">θα</supplied></w> <orig xml:id="caes0175-3" xml:lang="grc">ΑΜΒ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0175-001" xml:lang="grc">θή<unclear>κ</unclear><supplied reason="lost">η</supplied></w> <w xml:id="caes0175-002" xml:lang="grc">Ἀλά<unclear>φ</unclear><supplied reason="lost">θα</supplied></w> <orig xml:id="caes0175-003" xml:lang="grc">ΑΜΒ</orig> </p>
 </div>
 </body>
       <back>

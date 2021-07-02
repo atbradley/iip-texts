@@ -125,7 +125,7 @@
 						<rs type="epithet" ana="interpretations.xml#good">good </rs>
 <lb/> ... r ... n...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="beth0263-1" xml:lang="he">ו<unclear>ד</unclear></orig> <w xml:id="beth0263-2" xml:lang="he">הטוב</w> <orig xml:id="beth0263-3" xml:lang="he"><unclear>ר</unclear></orig> <orig xml:id="beth0263-4" xml:lang="he"><unclear>נ</unclear></orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="beth0263-001" xml:lang="he">ו<unclear>ד</unclear></orig> <w xml:id="beth0263-002" xml:lang="he">הטוב</w> <orig xml:id="beth0263-003" xml:lang="he"><unclear>ר</unclear></orig> <orig xml:id="beth0263-004" xml:lang="he"><unclear>נ</unclear></orig> </p>
 </div>
 </body>
       <back>

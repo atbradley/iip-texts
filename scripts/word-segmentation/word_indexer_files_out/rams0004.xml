@@ -119,7 +119,7 @@
          <div type="translation" ana="#b1" xml:id="rams0004.translation" corresp="#rams0004.diplomatic #rams0004.transcription">
             <p>Julianus, son of Zabaelos, completed (this).</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="rams0004-1" xml:lang="grc">Ἰουλιανὸς</w> <w xml:id="rams0004-2" xml:lang="grc">Ζαβαελ<supplied reason="omitted">ο</supplied>υ</w> <w xml:id="rams0004-3" xml:lang="grc">ἐτελίωσεν</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="rams0004-001" xml:lang="grc">Ἰουλιανὸς</w> <w xml:id="rams0004-002" xml:lang="grc">Ζαβαελ<supplied reason="omitted">ο</supplied>υ</w> <w xml:id="rams0004-003" xml:lang="grc">ἐτελίωσεν</w></p>
 </div>
 </body>
       <back>

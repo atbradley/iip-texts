@@ -194,7 +194,7 @@
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
             
-        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="tibr0001-1" xml:lang="grc">Ἡ</w> <w xml:id="tibr0001-2" xml:lang="grc">θεοῦ</w> <w xml:id="tibr0001-3" xml:lang="grc">χάρις</w> <w xml:id="tibr0001-4" xml:lang="grc">μετὰ</w> <w xml:id="tibr0001-5" xml:lang="grc">Ἀβραμίου</w> <w xml:id="tibr0001-6" xml:lang="grc">μαραμαρίου</w></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="tibr0001-001" xml:lang="grc">Ἡ</w> <w xml:id="tibr0001-002" xml:lang="grc">θεοῦ</w> <w xml:id="tibr0001-003" xml:lang="grc">χάρις</w> <w xml:id="tibr0001-004" xml:lang="grc">μετὰ</w> <w xml:id="tibr0001-005" xml:lang="grc">Ἀβραμίου</w> <w xml:id="tibr0001-006" xml:lang="grc">μαραμαρίου</w></p>
 </div>
 </body>
         <back>

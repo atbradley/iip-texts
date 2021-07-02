@@ -134,7 +134,7 @@
          <div type="edition" ana="#b1" xml:lang="grc" subtype="transcription" xml:id="jeri0006.transcription">
             <p><orig>ΑΒΓΔ</orig><lb/><orig>ΕΖ</orig><lb/><orig>ΗΘ</orig><lb/><orig>Φ</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><orig xml:id="jeri0006-1" xml:lang="grc">ΑΒΓΔ</orig> <orig xml:id="jeri0006-2" xml:lang="grc">ΕΖ</orig> <orig xml:id="jeri0006-3" xml:lang="grc">ΗΘ</orig> <orig xml:id="jeri0006-4" xml:lang="grc">Φ</orig></p>
+      <div type="edition" subtype="transcription_segmented"><p><orig xml:id="jeri0006-001" xml:lang="grc">ΑΒΓΔ</orig> <orig xml:id="jeri0006-002" xml:lang="grc">ΕΖ</orig> <orig xml:id="jeri0006-003" xml:lang="grc">ΗΘ</orig> <orig xml:id="jeri0006-004" xml:lang="grc">Φ</orig></p>
 </div>
 </body>
       <back>

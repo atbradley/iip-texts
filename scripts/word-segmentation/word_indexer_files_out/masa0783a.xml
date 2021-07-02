@@ -182,7 +182,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><orig xml:id="masa0783a-1" xml:lang="grc">ν</orig> <orig xml:id="masa0783a-2" xml:lang="grc">ρ</orig> <orig xml:id="masa0783a-3" xml:lang="grc"><unclear>ι</unclear></orig> </p>
+        <div type="edition" subtype="transcription_segmented"><p><orig xml:id="masa0783a-001" xml:lang="grc">ν</orig> <orig xml:id="masa0783a-002" xml:lang="grc">ρ</orig> <orig xml:id="masa0783a-003" xml:lang="grc"><unclear>ι</unclear></orig> </p>
 </div>
 </body>
         <back>

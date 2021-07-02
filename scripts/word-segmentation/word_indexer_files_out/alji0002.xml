@@ -126,7 +126,7 @@
          <div type="translation" ana="#MS" xml:id="alji0002.translation" corresp="#alji0002.transcription">
             <p>[...]ΡΑΟΗ daughter of Yatur, age 70.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="alji0002-1" xml:lang="grc">ραοη</orig> <w xml:id="alji0002-2" xml:lang="grc">Ἰατουρου</w> <w xml:id="alji0002-3" xml:lang="grc"><expan><abbr>ετ</abbr><ex>ων</ex></expan></w> <num xml:id="alji0002-4" value="70" xml:lang="grc">ο</num></p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="alji0002-001" xml:lang="grc">ραοη</orig> <w xml:id="alji0002-002" xml:lang="grc">Ἰατουρου</w> <w xml:id="alji0002-003" xml:lang="grc"><expan><abbr>ετ</abbr><ex>ων</ex></expan></w> <num xml:id="alji0002-004" value="70" xml:lang="grc">ο</num></p>
 </div>
 </body>
       <back>

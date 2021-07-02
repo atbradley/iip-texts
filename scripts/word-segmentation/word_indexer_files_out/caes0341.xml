@@ -126,7 +126,7 @@
                <gap reason="lost" extent="unknown" unit="character"/><orig>ΕΠ</orig><gap reason="illegible" quantity="1" unit="character"/>
                <gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0341-1" xml:lang="grc"><unclear>κί</unclear>ου</orig> <orig xml:id="caes0341-2" xml:lang="grc">ΕΠ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0341-001" xml:lang="grc"><unclear>κί</unclear>ου</orig> <orig xml:id="caes0341-002" xml:lang="grc">ΕΠ</orig> </p>
 </div>
 </body>
       <back>

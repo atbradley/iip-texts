@@ -188,7 +188,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tdor0003-1" xml:lang="grc"><expan><abbr>Τρύφων<unclear>ο</unclear></abbr><ex>ς</ex></expan></w> <w xml:id="tdor0003-2" xml:lang="grc">νί<unclear>κη</unclear></w> <w xml:id="tdor0003-3" xml:lang="heb"><expan><abbr>ד</abbr><ex>אר</ex></expan></w> <num xml:id="tdor0003-4" value="5" xml:lang="grc">ε</num> <w xml:id="tdor0003-5" xml:lang="grc"><expan><abbr>Δω</abbr><ex>ριτῶν</ex></expan></w> <w xml:id="tdor0003-6" xml:lang="grc"><expan><abbr>π</abbr><ex>όλεως</ex></expan>.</w> <w xml:id="tdor0003-7" xml:lang="grc">Ῥοῦ</w> <w xml:id="tdor0003-8" xml:lang="grc">γεῦσαι</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="tdor0003-001" xml:lang="grc"><expan><abbr>Τρύφων<unclear>ο</unclear></abbr><ex>ς</ex></expan></w> <w xml:id="tdor0003-002" xml:lang="grc">νί<unclear>κη</unclear></w> <w xml:id="tdor0003-003" xml:lang="heb"><expan><abbr>ד</abbr><ex>אר</ex></expan></w> <num xml:id="tdor0003-004" value="5" xml:lang="grc">ε</num> <w xml:id="tdor0003-005" xml:lang="grc"><expan><abbr>Δω</abbr><ex>ριτῶν</ex></expan></w> <w xml:id="tdor0003-006" xml:lang="grc"><expan><abbr>π</abbr><ex>όλεως</ex></expan>.</w> <w xml:id="tdor0003-007" xml:lang="grc">Ῥοῦ</w> <w xml:id="tdor0003-008" xml:lang="grc">γεῦσαι</w></p>
 </div>
 </body>
         <back>

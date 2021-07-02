@@ -126,7 +126,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0028p01">Yosi</persName>, <rs type="formula" ana="interpretations.xml#shalom" xml:lang="hbo">shalom </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0028-1" xml:lang="grc">Σαλόμ</w> <w xml:id="beth0028-2" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0028-3" xml:lang="grc"><unclear>ὁ</unclear></w> <w xml:id="beth0028-4" xml:lang="grc"><surplus>μ</surplus></w> <w xml:id="beth0028-5" xml:lang="grc">μικκός</w> <w xml:id="beth0028-6" xml:lang="heb">שלום</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0028-001" xml:lang="grc">Σαλόμ</w> <w xml:id="beth0028-002" xml:lang="grc">Ἰωσῆ</w> <w xml:id="beth0028-003" xml:lang="grc"><unclear>ὁ</unclear></w> <w xml:id="beth0028-004" xml:lang="grc"><surplus>μ</surplus></w> <w xml:id="beth0028-005" xml:lang="grc">μικκός</w> <w xml:id="beth0028-006" xml:lang="heb">שלום</w></p>
 </div>
 </body>
       <back>

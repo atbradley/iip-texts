@@ -140,7 +140,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="egal0003-1" xml:lang="grc"><supplied reason="lost">Θάρσι</supplied></w> <w xml:id="egal0003-2" xml:lang="grc">Μαρ<choice><sic>ο</sic><corr>ώ</corr></choice>νη</w> <w xml:id="egal0003-3" xml:lang="grc">οὐδ<supplied reason="omitted">ε</supplied>ίς</w> <w xml:id="egal0003-4" xml:lang="grc">ἀθάνατος</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="egal0003-001" xml:lang="grc"><supplied reason="lost">Θάρσι</supplied></w> <w xml:id="egal0003-002" xml:lang="grc">Μαρ<choice><sic>ο</sic><corr>ώ</corr></choice>νη</w> <w xml:id="egal0003-003" xml:lang="grc">οὐδ<supplied reason="omitted">ε</supplied>ίς</w> <w xml:id="egal0003-004" xml:lang="grc">ἀθάνατος</w></p>
 </div>
 </body>
         <back>

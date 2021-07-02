@@ -122,7 +122,7 @@
             <p>May the Lord be our helper. An offering of the congregation under
 			 <persName xml:lang="arc " ref="persons.xml#caes0080p01">Marouthas</persName>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0080-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></w> <w xml:id="caes0080-2" xml:lang="grc"><expan><abbr>β</abbr><ex>οηθό</ex><supplied reason="lost"><abbr>ς</abbr></supplied></expan></w> <w xml:id="caes0080-3" xml:lang="grc"><supplied reason="lost">πρ</supplied>οσφορὰ</w> <w xml:id="caes0080-4" xml:lang="grc"><expan><abbr>το</abbr><ex>ῦ</ex></expan></w> <w xml:id="caes0080-5" xml:lang="grc">λαοῦ</w> <w xml:id="caes0080-6" xml:lang="grc">ἐπὴ</w> <w xml:id="caes0080-7" xml:lang="grc">Μαρουθᾶ.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0080-001" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></w> <w xml:id="caes0080-002" xml:lang="grc"><expan><abbr>β</abbr><ex>οηθό</ex><supplied reason="lost"><abbr>ς</abbr></supplied></expan></w> <w xml:id="caes0080-003" xml:lang="grc"><supplied reason="lost">πρ</supplied>οσφορὰ</w> <w xml:id="caes0080-004" xml:lang="grc"><expan><abbr>το</abbr><ex>ῦ</ex></expan></w> <w xml:id="caes0080-005" xml:lang="grc">λαοῦ</w> <w xml:id="caes0080-006" xml:lang="grc">ἐπὴ</w> <w xml:id="caes0080-007" xml:lang="grc">Μαρουθᾶ.</w></p>
 </div>
 </body>
       <back>

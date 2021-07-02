@@ -116,7 +116,7 @@
                   <lb/><gap reason="lost" unit="character" extent="unknown"/><orig>ΑΣΚΑ</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" unit="character" extent="unknown"/>
                   <lb/><gap reason="lost" unit="character" extent="unknown"/><orig><unclear>Ω</unclear>ΝΟΙΣΑ</orig><gap reason="lost" unit="character" extent="unknown"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="elus0076-1" xml:lang="grc">Α</orig> <orig xml:id="elus0076-2" xml:lang="grc">ΑΣΚΑ</orig> <orig xml:id="elus0076-3" xml:lang="grc"><unclear>Ω</unclear>ΝΟΙΣΑ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="elus0076-001" xml:lang="grc">Α</orig> <orig xml:id="elus0076-002" xml:lang="grc">ΑΣΚΑ</orig> <orig xml:id="elus0076-003" xml:lang="grc"><unclear>Ω</unclear>ΝΟΙΣΑ</orig> </p>
 </div>
 </body>
       <back>

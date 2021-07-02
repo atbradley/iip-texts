@@ -122,7 +122,7 @@
          <div type="translation" ana="#b2" xml:id="beth0050.translation" corresp="#beth0050.transcription">
             <p>[so-and-so lies] in the inner <rs type="object" ana="interpretations.xml#grave">grave</rs>. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0050-1" xml:lang="grc"><del rend="erasure">εἰς</del></w> <w xml:id="beth0050-2" xml:lang="grc"><del rend="erasure">τὴν</del></w> <w xml:id="beth0050-3" xml:lang="grc">εἰς</w> <w xml:id="beth0050-4" xml:lang="grc">τὴν</w> <w xml:id="beth0050-5" xml:lang="grc">ἔσω</w> <w xml:id="beth0050-6" xml:lang="grc">κρηπῖ<supplied reason="lost">δα</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0050-001" xml:lang="grc"><del rend="erasure">εἰς</del></w> <w xml:id="beth0050-002" xml:lang="grc"><del rend="erasure">τὴν</del></w> <w xml:id="beth0050-003" xml:lang="grc">εἰς</w> <w xml:id="beth0050-004" xml:lang="grc">τὴν</w> <w xml:id="beth0050-005" xml:lang="grc">ἔσω</w> <w xml:id="beth0050-006" xml:lang="grc">κρηπῖ<supplied reason="lost">δα</supplied></w></p>
 </div>
 </body>
       <back>

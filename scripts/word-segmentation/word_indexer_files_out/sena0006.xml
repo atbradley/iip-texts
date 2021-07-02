@@ -121,7 +121,7 @@
                <lb/>
                <gap reason="lost" unit="character" extent="unknown"/><orig>Η</orig> <orig><choice><unclear>Α</unclear><unclear>Δ</unclear></choice></orig> <orig>Υ<choice><unclear>Τ</unclear><unclear>Π</unclear></choice></orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="sena0006-1" xml:lang="grc"><unclear>Α</unclear>Σ</orig> <orig xml:id="sena0006-2" xml:lang="grc">ΟΥ</orig> <orig xml:id="sena0006-3" xml:lang="grc">Ο</orig> <orig xml:id="sena0006-4" xml:lang="grc">ΕΙ<unclear>Σ</unclear></orig> <orig xml:id="sena0006-5" xml:lang="grc">Η</orig> <orig xml:id="sena0006-6" xml:lang="grc"><choice><unclear>Α</unclear><unclear>Δ</unclear></choice></orig> <orig xml:id="sena0006-7" xml:lang="grc">Υ<choice><unclear>Τ</unclear><unclear>Π</unclear></choice></orig></p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="sena0006-001" xml:lang="grc"><unclear>Α</unclear>Σ</orig> <orig xml:id="sena0006-002" xml:lang="grc">ΟΥ</orig> <orig xml:id="sena0006-003" xml:lang="grc">Ο</orig> <orig xml:id="sena0006-004" xml:lang="grc">ΕΙ<unclear>Σ</unclear></orig> <orig xml:id="sena0006-005" xml:lang="grc">Η</orig> <orig xml:id="sena0006-006" xml:lang="grc"><choice><unclear>Α</unclear><unclear>Δ</unclear></choice></orig> <orig xml:id="sena0006-007" xml:lang="grc">Υ<choice><unclear>Τ</unclear><unclear>Π</unclear></choice></orig></p>
 </div>
 </body>
       <back>

@@ -139,7 +139,7 @@
                 <p>The lower case given in the diplomatic transcription reflects the choice of the
                     editor.</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><num xml:id="mare0321-1" value="10" xml:lang="grc">ι</num> <w xml:id="mare0321-2" xml:lang="grc"><expan><abbr><am>ζ</am></abbr><ex>δραχμαί</ex></expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><num xml:id="mare0321-001" value="10" xml:lang="grc">ι</num> <w xml:id="mare0321-002" xml:lang="grc"><expan><abbr><am>ζ</am></abbr><ex>δραχμαί</ex></expan></w></p>
 </div>
 </body>
         <back>

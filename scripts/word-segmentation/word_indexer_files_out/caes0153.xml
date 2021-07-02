@@ -132,7 +132,7 @@
             <p>The sarcophagus of <persName xml:lang="grc " ref="persons.xml#caes0153p01">Arkadios </persName> and the <rs type="family">children </rs> of <persName xml:lang="grc " ref="persons.xml#caes0153p02">Eutropia</persName>, by <persName xml:lang="grc " ref="persons.xml#caes0153p03">Panagios</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0153-1" xml:lang="grc">σορὸς</w> <w xml:id="caes0153-2" xml:lang="grc">Ἀρκαδ<unclear>ί</unclear><unclear>ω</unclear></w> <w xml:id="caes0153-3" xml:lang="grc">καὶ</w> <w xml:id="caes0153-4" xml:lang="grc">τέκνοις</w> <w xml:id="caes0153-5" xml:lang="grc">Εὐτροπίας,</w> <w xml:id="caes0153-6" xml:lang="grc"><expan><abbr>ὑ</abbr><ex>πὸ</ex></expan></w> <w xml:id="caes0153-7" xml:lang="grc">Παναγίου.</w> </p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0153-001" xml:lang="grc">σορὸς</w> <w xml:id="caes0153-002" xml:lang="grc">Ἀρκαδ<unclear>ί</unclear><unclear>ω</unclear></w> <w xml:id="caes0153-003" xml:lang="grc">καὶ</w> <w xml:id="caes0153-004" xml:lang="grc">τέκνοις</w> <w xml:id="caes0153-005" xml:lang="grc">Εὐτροπίας,</w> <w xml:id="caes0153-006" xml:lang="grc"><expan><abbr>ὑ</abbr><ex>πὸ</ex></expan></w> <w xml:id="caes0153-007" xml:lang="grc">Παναγίου.</w> </p>
 </div>
 </body>
       <back>

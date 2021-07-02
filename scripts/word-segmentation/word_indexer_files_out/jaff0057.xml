@@ -236,7 +236,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p xml:lang="heb"> <w xml:id="jaff0057-1" xml:lang="he">חנניה</w> <w xml:id="jaff0057-2" xml:lang="he"><unclear>ב</unclear>ן</w> <w xml:id="jaff0057-3" xml:lang="he">רבי</w> <orig xml:id="jaff0057-4" xml:lang="he"><unclear>ם</unclear></orig> <w xml:id="jaff0057-5" xml:lang="he">שמן</w> <w xml:id="jaff0057-6" xml:lang="he"><supplied reason="lost" cert="low">אלכסנ</supplied><unclear>ד</unclear>ריה</w> <w xml:id="jaff0057-7" xml:lang="he"><supplied reason="lost">של</supplied><unclear>ו</unclear>ם</w></p>
+        <div type="edition" subtype="transcription_segmented"><p xml:lang="heb"> <w xml:id="jaff0057-001" xml:lang="he">חנניה</w> <w xml:id="jaff0057-002" xml:lang="he"><unclear>ב</unclear>ן</w> <w xml:id="jaff0057-003" xml:lang="he">רבי</w> <orig xml:id="jaff0057-004" xml:lang="he"><unclear>ם</unclear></orig> <w xml:id="jaff0057-005" xml:lang="he">שמן</w> <w xml:id="jaff0057-006" xml:lang="he"><supplied reason="lost" cert="low">אלכסנ</supplied><unclear>ד</unclear>ריה</w> <w xml:id="jaff0057-007" xml:lang="he"><supplied reason="lost">של</supplied><unclear>ו</unclear>ם</w></p>
 </div>
 </body>
         <back>

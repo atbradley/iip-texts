@@ -127,7 +127,7 @@
          <div type="translation" ana="#b1" xml:id="caes0038.translation" corresp="#caes0038.transcription">
             <p>...manly <persName xml:lang="grc " ref="persons.xml#caes0038p01">Ambros</persName>...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0038-1" xml:lang="grc">ρεσεν</orig> <w xml:id="caes0038-2" xml:lang="grc">Ἄμβρος</w> <w xml:id="caes0038-3" xml:lang="grc">ἀγ<hi rend="ligature">ήν</hi>ω<unclear>ρ</unclear></w> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0038-001" xml:lang="grc">ρεσεν</orig> <w xml:id="caes0038-002" xml:lang="grc">Ἄμβρος</w> <w xml:id="caes0038-003" xml:lang="grc">ἀγ<hi rend="ligature">ήν</hi>ω<unclear>ρ</unclear></w> </p>
 </div>
 </body>
       <back>

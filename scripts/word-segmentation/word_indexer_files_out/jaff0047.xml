@@ -180,7 +180,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0047-1" xml:lang="grc">Ἰοῦστου</w> <w xml:id="jaff0047-2" xml:lang="grc">γναφέος</w> <w xml:id="jaff0047-3" xml:lang="grc">Ἰακω</w> <w xml:id="jaff0047-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <orig xml:id="jaff0047-5" xml:lang="grc">υμινα</orig> <w xml:id="jaff0047-6" xml:lang="grc">διὰ</w> <w xml:id="jaff0047-7" xml:lang="grc">Σαλω</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="jaff0047-001" xml:lang="grc">Ἰοῦστου</w> <w xml:id="jaff0047-002" xml:lang="grc">γναφέος</w> <w xml:id="jaff0047-003" xml:lang="grc">Ἰακω</w> <w xml:id="jaff0047-004" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <orig xml:id="jaff0047-005" xml:lang="grc">υμινα</orig> <w xml:id="jaff0047-006" xml:lang="grc">διὰ</w> <w xml:id="jaff0047-007" xml:lang="grc">Σαλω</w></p>
 </div>
 </body>
         <back>

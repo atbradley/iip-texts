@@ -188,7 +188,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="masa0828-1" xml:lang="la"><unclear>C</unclear>O<unclear>EB</unclear>AL</orig>  <orig xml:id="masa0828-2" xml:lang="la">P<g type="word_separator">·</g>R</orig>  <orig xml:id="masa0828-3" xml:lang="la"><hi rend="ligature">AU</hi></orig>   <orig xml:id="masa0828-4" xml:lang="la"><unclear>A</unclear>LI</orig>  <orig xml:id="masa0828-5" xml:lang="la">GR<unclear>A</unclear></orig> <orig xml:id="masa0828-6" xml:lang="la"><unclear>L</unclear></orig></p>
+        <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="masa0828-001" xml:lang="la"><unclear>C</unclear>O<unclear>EB</unclear>AL</orig>  <orig xml:id="masa0828-002" xml:lang="la">P<g type="word_separator">·</g>R</orig>  <orig xml:id="masa0828-003" xml:lang="la"><hi rend="ligature">AU</hi></orig>   <orig xml:id="masa0828-004" xml:lang="la"><unclear>A</unclear>LI</orig>  <orig xml:id="masa0828-005" xml:lang="la">GR<unclear>A</unclear></orig> <orig xml:id="masa0828-006" xml:lang="la"><unclear>L</unclear></orig></p>
 </div>
 </body>
         <back>

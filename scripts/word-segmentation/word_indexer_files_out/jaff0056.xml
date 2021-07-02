@@ -195,7 +195,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="jaff0056-1" xml:lang="arc"><unclear reason="lost">ת</unclear><unclear>ע</unclear></orig> <orig xml:id="jaff0056-2" xml:lang="arc">ב<unclear>ה</unclear></orig> <orig xml:id="jaff0056-3" xml:lang="arc">ם</orig> <orig xml:id="jaff0056-4" xml:lang="arc">בר</orig> <w xml:id="jaff0056-5" xml:lang="arc">מן</w> <orig xml:id="jaff0056-6" xml:lang="arc"><unclear>ד</unclear></orig> <w xml:id="jaff0056-7" xml:lang="arc">דקבורת<supplied reason="lost">ה</supplied></w> </p>
+        <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="jaff0056-001" xml:lang="arc"><unclear reason="lost">ת</unclear><unclear>ע</unclear></orig> <orig xml:id="jaff0056-002" xml:lang="arc">ב<unclear>ה</unclear></orig> <orig xml:id="jaff0056-003" xml:lang="arc">ם</orig> <orig xml:id="jaff0056-004" xml:lang="arc">בר</orig> <w xml:id="jaff0056-005" xml:lang="arc">מן</w> <orig xml:id="jaff0056-006" xml:lang="arc"><unclear>ד</unclear></orig> <w xml:id="jaff0056-007" xml:lang="arc">דקבורת<supplied reason="lost">ה</supplied></w> </p>
 </div>
 </body>
         <back>

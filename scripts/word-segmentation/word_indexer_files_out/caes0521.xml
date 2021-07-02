@@ -132,7 +132,7 @@
                 <p>Translation supplied by IIP encoder Sabrina Whitfill not by editor. Date
                     estimated from Corpus Inscriptionum </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0521-1" xml:lang="grc"><supplied reason="lost">Θήκ</supplied>η</w> <w xml:id="caes0521-2" xml:lang="grc"><supplied reason="lost">Μ</supplied>αρί<supplied reason="lost">ας</supplied></w> <orig xml:id="caes0521-3" xml:lang="grc">Αφ</orig> </p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0521-001" xml:lang="grc"><supplied reason="lost">Θήκ</supplied>η</w> <w xml:id="caes0521-002" xml:lang="grc"><supplied reason="lost">Μ</supplied>αρί<supplied reason="lost">ας</supplied></w> <orig xml:id="caes0521-003" xml:lang="grc">Αφ</orig> </p>
 </div>
 </body>
         <back>

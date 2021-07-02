@@ -115,7 +115,7 @@
             <p>Of <persName xml:lang="hbo " ref="persons.xml#beth0115p01">Samuel</persName>, son of
 					...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0115-1" xml:lang="grc"><unclear>Σαμουή</unclear>λου</w> <orig xml:id="beth0115-2" xml:lang="grc">ου</orig></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0115-001" xml:lang="grc"><unclear>Σαμουή</unclear>λου</w> <orig xml:id="beth0115-002" xml:lang="grc">ου</orig></p>
 </div>
 </body>
       <back>

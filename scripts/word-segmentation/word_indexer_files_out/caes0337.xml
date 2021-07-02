@@ -121,7 +121,7 @@
             <p><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><orig>Φω</orig>
                <lb/><gap reason="lost" extent="unknown" unit="character"/><orig>μένου</orig></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0337-1" xml:lang="grc">Φω</orig> <orig xml:id="caes0337-2" xml:lang="grc">μένου</orig></p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0337-001" xml:lang="grc">Φω</orig> <orig xml:id="caes0337-002" xml:lang="grc">μένου</orig></p>
 </div>
 </body>
       <back>

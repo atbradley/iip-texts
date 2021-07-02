@@ -119,7 +119,7 @@
             <p>Monument of Aloufathe, (daughter) of Mazabanos, who died (at the age) of 7
                     years.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0294-1" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0294-2" xml:lang="grc">Ἀλουφάθης</w> <w xml:id="zoor0294-3" xml:lang="grc">Μαζαβάνου,</w> <orig xml:id="zoor0294-4" xml:lang="grc"><sic><expan><abbr>ἀποθανούντ</abbr><ex>ος</ex></expan></sic><corr>ἀποθανόντος</corr></orig> <w xml:id="zoor0294-5" xml:lang="grc">ἐτῶν</w> <num xml:id="zoor0294-6" value="7" xml:lang="grc">ζʹ</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0294-001" xml:lang="grc"><choice><sic>Μνημῖον</sic><corr>Μνημεῖον</corr></choice></w> <w xml:id="zoor0294-002" xml:lang="grc">Ἀλουφάθης</w> <w xml:id="zoor0294-003" xml:lang="grc">Μαζαβάνου,</w> <orig xml:id="zoor0294-004" xml:lang="grc"><sic><expan><abbr>ἀποθανούντ</abbr><ex>ος</ex></expan></sic><corr>ἀποθανόντος</corr></orig> <w xml:id="zoor0294-005" xml:lang="grc">ἐτῶν</w> <num xml:id="zoor0294-006" value="7" xml:lang="grc">ζʹ</num></p>
 </div>
 </body>
       <back>

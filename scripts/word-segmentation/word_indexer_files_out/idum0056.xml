@@ -192,7 +192,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="idum0056-1" xml:lang="arc"><unclear>קוס</unclear>הל</w> <w xml:id="idum0056-2" xml:lang="arc"><unclear>בר</unclear></w> <w xml:id="idum0056-3" xml:lang="arc">גורו</w> <w xml:id="idum0056-4" xml:lang="arc"><unclear>מלח</unclear></w> <w xml:id="idum0056-5" xml:lang="arc">ס</w> <num xml:id="idum0056-6" value="1" xml:lang="arc">5</num> <w xml:id="idum0056-7" xml:lang="arc">ק</w> <num xml:id="idum0056-8" value="1" xml:lang="arc">2</num> <num xml:id="idum0056-9" xml:lang="arc">ף</num></p>
+        <div type="edition" subtype="transcription_segmented"><p> <w xml:id="idum0056-001" xml:lang="arc"><unclear>קוס</unclear>הל</w> <w xml:id="idum0056-002" xml:lang="arc"><unclear>בר</unclear></w> <w xml:id="idum0056-003" xml:lang="arc">גורו</w> <w xml:id="idum0056-004" xml:lang="arc"><unclear>מלח</unclear></w> <w xml:id="idum0056-005" xml:lang="arc">ס</w> <num xml:id="idum0056-006" value="1" xml:lang="arc">5</num> <w xml:id="idum0056-007" xml:lang="arc">ק</w> <num xml:id="idum0056-008" value="1" xml:lang="arc">2</num> <num xml:id="idum0056-009" xml:lang="arc">ף</num></p>
 </div>
 </body>
         <back>

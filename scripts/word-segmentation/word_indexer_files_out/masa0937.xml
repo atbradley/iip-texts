@@ -178,7 +178,7 @@
             <div type="commentary" ana="b1">
                 <p/>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0937-1" xml:lang="la"><expan><abbr>le<unclear>g</unclear></abbr><ex>io</ex></expan></w> <num xml:id="masa0937-2" value="10" xml:lang="la">X</num> <w xml:id="masa0937-3" xml:lang="la"><supplied reason="lost">Fretensis</supplied></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="masa0937-001" xml:lang="la"><expan><abbr>le<unclear>g</unclear></abbr><ex>io</ex></expan></w> <num xml:id="masa0937-002" value="10" xml:lang="la">X</num> <w xml:id="masa0937-003" xml:lang="la"><supplied reason="lost">Fretensis</supplied></w></p>
 </div>
 </body>
         <back>

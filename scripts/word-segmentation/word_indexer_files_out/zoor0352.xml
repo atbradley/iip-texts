@@ -134,7 +134,7 @@
          <div type="translation" ana="b1" xml:id="zoor0352.translation" corresp="#zoor0352.transcription">
             <p> Monument of Efthaos, (son) of Artemios, who died (at the age) of 50 years. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><orig xml:id="zoor0352-1" xml:lang="grc">Μνημῖον</orig> <w xml:id="zoor0352-2" xml:lang="grc">Ἐφθάου</w> <w xml:id="zoor0352-3" xml:lang="grc">Ἀρ<supplied reason="lost">τ</supplied>εμίου,</w> <orig xml:id="zoor0352-4" xml:lang="grc">ἀποθανάντος</orig> <w xml:id="zoor0352-5" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <num xml:id="zoor0352-6" value="50" xml:lang="grc">ν</num> </p>
+      <div type="edition" subtype="transcription_segmented"><p><orig xml:id="zoor0352-001" xml:lang="grc">Μνημῖον</orig> <w xml:id="zoor0352-002" xml:lang="grc">Ἐφθάου</w> <w xml:id="zoor0352-003" xml:lang="grc">Ἀρ<supplied reason="lost">τ</supplied>εμίου,</w> <orig xml:id="zoor0352-004" xml:lang="grc">ἀποθανάντος</orig> <w xml:id="zoor0352-005" xml:lang="grc"><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <num xml:id="zoor0352-006" value="50" xml:lang="grc">ν</num> </p>
 </div>
 </body>
       <back>

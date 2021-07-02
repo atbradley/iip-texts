@@ -135,7 +135,7 @@
 					the <rs type="title" ana="interpretations.xml#lady">lady </rs>
                <persName xml:lang="grc " ref="persons.xml#beth0066p03">Maria</persName>, <rs type="formula" ana="interpretations.xml#lies">lies </rs> here.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0066-1" xml:lang="grc">Σάρα</w> <w xml:id="beth0066-2" xml:lang="grc">θυγάτηρ</w> <w xml:id="beth0066-3" xml:lang="grc">Ναιμίας</w> <w xml:id="beth0066-4" xml:lang="grc">μήτηρ</w> <w xml:id="beth0066-5" xml:lang="grc">ἱηρείας</w> <w xml:id="beth0066-6" xml:lang="grc">κυρὰ</w> <w xml:id="beth0066-7" xml:lang="grc">Μαρ<supplied reason="lost">εί</supplied>ης</w> <w xml:id="beth0066-8" xml:lang="grc"><supplied reason="lost">ἔν</supplied><unclear>θα</unclear></w> <w xml:id="beth0066-9" xml:lang="grc">κ<supplied reason="lost" cert="low">εῖται</supplied></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0066-001" xml:lang="grc">Σάρα</w> <w xml:id="beth0066-002" xml:lang="grc">θυγάτηρ</w> <w xml:id="beth0066-003" xml:lang="grc">Ναιμίας</w> <w xml:id="beth0066-004" xml:lang="grc">μήτηρ</w> <w xml:id="beth0066-005" xml:lang="grc">ἱηρείας</w> <w xml:id="beth0066-006" xml:lang="grc">κυρὰ</w> <w xml:id="beth0066-007" xml:lang="grc">Μαρ<supplied reason="lost">εί</supplied>ης</w> <w xml:id="beth0066-008" xml:lang="grc"><supplied reason="lost">ἔν</supplied><unclear>θα</unclear></w> <w xml:id="beth0066-009" xml:lang="grc">κ<supplied reason="lost" cert="low">εῖται</supplied></w></p>
 </div>
 </body>
       <back>

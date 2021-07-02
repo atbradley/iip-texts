@@ -122,7 +122,7 @@
                   <lb/><gap reason="illegible" quantity="3" unit="character"/><orig>ελεθο</orig>
                   <lb/><gap reason="illegible" quantity="5" unit="character"/><orig>ψ</orig><lb/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0332-1" xml:lang="grc">ροιο</orig> <w xml:id="caes0332-2" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0332-3" xml:lang="grc"><supplied reason="undefined">ἔ</supplied><unclear>λ</unclear>ειψα</w> <orig xml:id="caes0332-4" xml:lang="grc">ννου</orig> <orig xml:id="caes0332-5" xml:lang="grc">Με</orig> <orig xml:id="caes0332-6" xml:lang="grc">ελεθο</orig> <orig xml:id="caes0332-7" xml:lang="grc">ψ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0332-001" xml:lang="grc">ροιο</orig> <w xml:id="caes0332-002" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0332-003" xml:lang="grc"><supplied reason="undefined">ἔ</supplied><unclear>λ</unclear>ειψα</w> <orig xml:id="caes0332-004" xml:lang="grc">ννου</orig> <orig xml:id="caes0332-005" xml:lang="grc">Με</orig> <orig xml:id="caes0332-006" xml:lang="grc">ελεθο</orig> <orig xml:id="caes0332-007" xml:lang="grc">ψ</orig> </p>
 </div>
 </body>
       <back>

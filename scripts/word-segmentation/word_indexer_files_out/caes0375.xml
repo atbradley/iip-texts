@@ -121,7 +121,7 @@
                   <lb/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><orig><unclear>ΑΚ</unclear></orig>
                   <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0375-1" xml:lang="grc">Χριστ</orig> <orig xml:id="caes0375-2" xml:lang="grc"><unclear>ΑΚ</unclear></orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0375-001" xml:lang="grc">Χριστ</orig> <orig xml:id="caes0375-002" xml:lang="grc"><unclear>ΑΚ</unclear></orig> </p>
 </div>
 </body>
       <back>

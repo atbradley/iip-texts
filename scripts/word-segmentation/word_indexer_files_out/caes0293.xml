@@ -135,7 +135,7 @@
                   <persName xml:lang="hbo " ref="persons.xml#caes0293p02">Gabrielios </persName>
                </name> ...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0293-1" xml:lang="grc">Ἀμῶς</w> <w xml:id="caes0293-2" xml:lang="grc">Γα<unclear>β</unclear>ρ<supplied reason="undefined">ιηλίου</supplied></w> <w xml:id="caes0293-3" xml:lang="grc">τὴν</w> <orig xml:id="caes0293-4" xml:lang="grc">ΗΝ</orig> <orig xml:id="caes0293-5" xml:lang="grc">ΤΟ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0293-001" xml:lang="grc">Ἀμῶς</w> <w xml:id="caes0293-002" xml:lang="grc">Γα<unclear>β</unclear>ρ<supplied reason="undefined">ιηλίου</supplied></w> <w xml:id="caes0293-003" xml:lang="grc">τὴν</w> <orig xml:id="caes0293-004" xml:lang="grc">ΗΝ</orig> <orig xml:id="caes0293-005" xml:lang="grc">ΤΟ</orig> </p>
 </div>
 </body>
       <back>

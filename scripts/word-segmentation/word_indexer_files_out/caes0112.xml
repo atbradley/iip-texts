@@ -127,7 +127,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
                <supplied reason="lost">τ</supplied><unclear>ῶ</unclear>ν νόμων <gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0112-1" xml:lang="grc"><unclear>τ</unclear>ῶν</w> <orig xml:id="caes0112-2" xml:lang="grc">δ</orig> <orig xml:id="caes0112-3" xml:lang="grc">ω</orig> <w xml:id="caes0112-4" xml:lang="grc">λύουσιν</w> <w xml:id="caes0112-5" xml:lang="grc"><supplied reason="lost">τ</supplied><unclear>ῶ</unclear>ν</w> <w xml:id="caes0112-6" xml:lang="grc">νόμων</w> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0112-001" xml:lang="grc"><unclear>τ</unclear>ῶν</w> <orig xml:id="caes0112-002" xml:lang="grc">δ</orig> <orig xml:id="caes0112-003" xml:lang="grc">ω</orig> <w xml:id="caes0112-004" xml:lang="grc">λύουσιν</w> <w xml:id="caes0112-005" xml:lang="grc"><supplied reason="lost">τ</supplied><unclear>ῶ</unclear>ν</w> <w xml:id="caes0112-006" xml:lang="grc">νόμων</w> </p>
 </div>
 </body>
       <back>

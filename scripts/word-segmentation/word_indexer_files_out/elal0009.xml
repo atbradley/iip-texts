@@ -138,7 +138,7 @@
          <div type="translation" ana="#b1" xml:id="elal0009.translation" corresp="#elal0009.diplomatic #elal0009.transcription">
             <p> Be of good courage, .mt.a(?)! Twenty-one years old. </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0009-1" xml:lang="grc">θάρσ<supplied reason="undefined">ι</supplied></w> <orig xml:id="elal0009-2" xml:lang="grc">μτ</orig> <orig xml:id="elal0009-3" xml:lang="grc">α</orig> <w xml:id="elal0009-4" xml:lang="grc"><expan><abbr>ἔτ<unclear>ο</unclear></abbr><ex>υς</ex></expan></w> <num xml:id="elal0009-5" value="21" xml:lang="grc">κ<unclear>α</unclear>´</num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="elal0009-001" xml:lang="grc">θάρσ<supplied reason="undefined">ι</supplied></w> <orig xml:id="elal0009-002" xml:lang="grc">μτ</orig> <orig xml:id="elal0009-003" xml:lang="grc">α</orig> <w xml:id="elal0009-004" xml:lang="grc"><expan><abbr>ἔτ<unclear>ο</unclear></abbr><ex>υς</ex></expan></w> <num xml:id="elal0009-005" value="21" xml:lang="grc">κ<unclear>α</unclear>´</num></p>
 </div>
 </body>
       <back>

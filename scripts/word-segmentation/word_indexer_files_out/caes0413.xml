@@ -130,7 +130,7 @@
             <div type="commentary" ana="b1">
                 <p>Original content of this inscription is uncertain. The fragment was likely part of a large cross, perhaps a crux gemmata, and the single letter on the fragment may have been part of a dedication to Jesus Christ. </p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0413-1" xml:lang="grc"><supplied reason="lost">Ἰησους</supplied></w> <w xml:id="caes0413-2" xml:lang="grc"><supplied reason="lost">Χριστο</supplied>ς</w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="caes0413-001" xml:lang="grc"><supplied reason="lost">Ἰησους</supplied></w> <w xml:id="caes0413-002" xml:lang="grc"><supplied reason="lost">Χριστο</supplied>ς</w></p>
 </div>
 </body>
         <back>

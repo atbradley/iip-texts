@@ -128,7 +128,7 @@
                <persName xml:lang="grc " ref="persons.xml#caes0206p02">Zosime</persName>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0206-1" xml:lang="grc">θήκη</w>  <w xml:id="caes0206-2" xml:lang="grc">Καρποῦ</w> <w xml:id="caes0206-3" xml:lang="grc"><expan><abbr>οἰνοπ</abbr><ex>άτου</ex></expan></w> <w xml:id="caes0206-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0206-5" xml:lang="grc">Ζωσίμης</w> <w xml:id="caes0206-6" xml:lang="grc">γαμετῆς.</w> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0206-001" xml:lang="grc">θήκη</w>  <w xml:id="caes0206-002" xml:lang="grc">Καρποῦ</w> <w xml:id="caes0206-003" xml:lang="grc"><expan><abbr>οἰνοπ</abbr><ex>άτου</ex></expan></w> <w xml:id="caes0206-004" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0206-005" xml:lang="grc">Ζωσίμης</w> <w xml:id="caes0206-006" xml:lang="grc">γαμετῆς.</w> </p>
 </div>
 </body>
       <back>

@@ -175,7 +175,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0430-1" xml:lang="arc">קוסמלך</w> <w xml:id="idum0430-2" xml:lang="arc"><choice><unclear>לאבאנשי</unclear><unclear>לאבאנשו</unclear></choice></w> <w xml:id="idum0430-3" xml:lang="arc">מובל</w> <w xml:id="idum0430-4" xml:lang="arc"><unclear>חדה</unclear></w> </p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="idum0430-001" xml:lang="arc">קוסמלך</w> <w xml:id="idum0430-002" xml:lang="arc"><choice><unclear>לאבאנשי</unclear><unclear>לאבאנשו</unclear></choice></w> <w xml:id="idum0430-003" xml:lang="arc">מובל</w> <w xml:id="idum0430-004" xml:lang="arc"><unclear>חדה</unclear></w> </p>
 </div>
 </body>
         <back>

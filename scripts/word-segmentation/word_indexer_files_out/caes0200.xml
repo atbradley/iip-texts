@@ -129,7 +129,7 @@
             <p>The bones of <persName xml:lang="grc " ref="persons.xml#caes0200p01">Nonios </persName> (lie) here with...
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0200-1" xml:lang="grc">ὀστᾶ</w>  <w xml:id="caes0200-2" xml:lang="grc"><supplied reason="undefined">Ν</supplied><unclear>ω</unclear>νίου</w> <w xml:id="caes0200-3" xml:lang="grc"><expan><abbr><unclear>ἐ</unclear>ν</abbr><ex>θάδε</ex></expan></w> <w xml:id="caes0200-4" xml:lang="grc">σὺν</w> <orig xml:id="caes0200-5" xml:lang="grc"><unclear>μ</unclear></orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0200-001" xml:lang="grc">ὀστᾶ</w>  <w xml:id="caes0200-002" xml:lang="grc"><supplied reason="undefined">Ν</supplied><unclear>ω</unclear>νίου</w> <w xml:id="caes0200-003" xml:lang="grc"><expan><abbr><unclear>ἐ</unclear>ν</abbr><ex>θάδε</ex></expan></w> <w xml:id="caes0200-004" xml:lang="grc">σὺν</w> <orig xml:id="caes0200-005" xml:lang="grc"><unclear>μ</unclear></orig> </p>
 </div>
 </body>
       <back>

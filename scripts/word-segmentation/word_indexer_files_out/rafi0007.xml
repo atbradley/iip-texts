@@ -133,7 +133,7 @@
          <div type="translation" ana="#b1" xml:id="rafi0007.translation" corresp="#rafi0007.diplomatic #rafi0007.transcription">
             <p>Christ help Pe..osodrus(?)...Joseph and(?) Jobis Ser...</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="rafi0007-1" xml:lang="grc"><expan><abbr>Χριστ<am>ϛ</am></abbr><ex>ὸς</ex></expan></w> <w xml:id="rafi0007-2" xml:lang="grc">βοήθι</w> <orig xml:id="rafi0007-3" xml:lang="grc">Πε</orig> <orig xml:id="rafi0007-4" xml:lang="grc">οσωδρου</orig> <w xml:id="rafi0007-5" xml:lang="grc">Ἰωσέφ</w> <w xml:id="rafi0007-6" xml:lang="grc"><supplied reason="undefined" cert="low">καὶ</supplied></w> <w xml:id="rafi0007-7" xml:lang="grc">Ἰωβις</w> <orig xml:id="rafi0007-8" xml:lang="grc">Σερ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="rafi0007-001" xml:lang="grc"><expan><abbr>Χριστ<am>ϛ</am></abbr><ex>ὸς</ex></expan></w> <w xml:id="rafi0007-002" xml:lang="grc">βοήθι</w> <orig xml:id="rafi0007-003" xml:lang="grc">Πε</orig> <orig xml:id="rafi0007-004" xml:lang="grc">οσωδρου</orig> <w xml:id="rafi0007-005" xml:lang="grc">Ἰωσέφ</w> <w xml:id="rafi0007-006" xml:lang="grc"><supplied reason="undefined" cert="low">καὶ</supplied></w> <w xml:id="rafi0007-007" xml:lang="grc">Ἰωβις</w> <orig xml:id="rafi0007-008" xml:lang="grc">Σερ</orig> </p>
 </div>
 </body>
       <back>

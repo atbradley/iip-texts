@@ -121,7 +121,7 @@
          <div type="translation" ana="#b1" xml:id="carm0002.translation" corresp="#carm0002.diplomatic #carm0002.transcription">
             <p>Lord God, lay down your servants Iokletos... (on their resting place)</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0002-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="carm0002-2" xml:lang="grc">ὁ</w> <w xml:id="carm0002-3" xml:lang="grc">θεός</w> <w xml:id="carm0002-4" xml:lang="grc">ἀνάπαυσον</w> <w xml:id="carm0002-5" xml:lang="grc"><expan><abbr>τού</abbr><ex>ς</ex></expan></w> <w xml:id="carm0002-6" xml:lang="grc">δούλους</w> <w xml:id="carm0002-7" xml:lang="grc">σου</w> <w xml:id="carm0002-8" xml:lang="grc">Ἰώκλ<supplied reason="undefined">ητον</supplied></w> <orig xml:id="carm0002-9" xml:lang="grc">ΝΒ</orig></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="carm0002-001" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w xml:id="carm0002-002" xml:lang="grc">ὁ</w> <w xml:id="carm0002-003" xml:lang="grc">θεός</w> <w xml:id="carm0002-004" xml:lang="grc">ἀνάπαυσον</w> <w xml:id="carm0002-005" xml:lang="grc"><expan><abbr>τού</abbr><ex>ς</ex></expan></w> <w xml:id="carm0002-006" xml:lang="grc">δούλους</w> <w xml:id="carm0002-007" xml:lang="grc">σου</w> <w xml:id="carm0002-008" xml:lang="grc">Ἰώκλ<supplied reason="undefined">ητον</supplied></w> <orig xml:id="carm0002-009" xml:lang="grc">ΝΒ</orig></p>
 </div>
 </body>
       <back>

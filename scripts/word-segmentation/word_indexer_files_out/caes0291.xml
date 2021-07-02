@@ -141,7 +141,7 @@
                   <persName xml:lang="grc " ref="persons.xml#caes0291p01">Ioannes </persName>
                </name> ...with their <rs type="family">children</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0291-1" xml:lang="grc">στ<hi rend="ligature">ου</hi></orig> <w xml:id="caes0291-2" xml:lang="grc"><expan><abbr><am>Ϛ</am></abbr><ex>καὶ</ex></expan></w> <orig xml:id="caes0291-3" xml:lang="grc">Ζα</orig> <w xml:id="caes0291-4" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied>ωάνν<hi rend="ligature">ου</hi></w> <w xml:id="caes0291-5" xml:lang="grc"><supplied reason="undefined">σ</supplied>ὺν</w> <w xml:id="caes0291-6" xml:lang="grc">τέκν<supplied reason="omitted">ο</supplied>υς</w> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0291-001" xml:lang="grc">στ<hi rend="ligature">ου</hi></orig> <w xml:id="caes0291-002" xml:lang="grc"><expan><abbr><am>Ϛ</am></abbr><ex>καὶ</ex></expan></w> <orig xml:id="caes0291-003" xml:lang="grc">Ζα</orig> <w xml:id="caes0291-004" xml:lang="grc"><supplied reason="undefined">Ἰ</supplied>ωάνν<hi rend="ligature">ου</hi></w> <w xml:id="caes0291-005" xml:lang="grc"><supplied reason="undefined">σ</supplied>ὺν</w> <w xml:id="caes0291-006" xml:lang="grc">τέκν<supplied reason="omitted">ο</supplied>υς</w> </p>
 </div>
 </body>
       <back>

@@ -130,7 +130,7 @@
                <persName xml:lang="hbo " ref="persons.xml#beth0110p01">Manae</persName>, <rs type="family" ana="interpretations.xml#father">father </rs> of ..., <rs type="religTitle" ana="interpretations.xml#presbuteros">presbuteros </rs>
             </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0110-1" xml:lang="grc">Μαναὴ</w> <w xml:id="beth0110-2" xml:lang="grc">πατὴρ</w> <orig xml:id="beth0110-3" xml:lang="grc">Ν</orig> <orig xml:id="beth0110-4" xml:lang="grc">Α</orig> <w xml:id="beth0110-5" xml:lang="grc"><expan><abbr>πρεσ</abbr><ex>βύτερος</ex></expan></w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="beth0110-001" xml:lang="grc">Μαναὴ</w> <w xml:id="beth0110-002" xml:lang="grc">πατὴρ</w> <orig xml:id="beth0110-003" xml:lang="grc">Ν</orig> <orig xml:id="beth0110-004" xml:lang="grc">Α</orig> <w xml:id="beth0110-005" xml:lang="grc"><expan><abbr>πρεσ</abbr><ex>βύτερος</ex></expan></w></p>
 </div>
 </body>
       <back>

@@ -130,7 +130,7 @@
                <gap reason="lost" extent="unknown" unit="character"/><orig>ΒΡ</orig><gap reason="illegible" quantity="1" unit="char"/><orig>ΙΣΙΧΟ</orig><lb/>
                <gap reason="lost" quantity="1" unit="line"/></p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0363-1" xml:lang="grc"><unclear>Π</unclear>Ο</orig> <orig xml:id="caes0363-2" xml:lang="grc"><unclear>Ρ</unclear>ΟΛΟΓ<unclear>ΟΚ</unclear></orig> <orig xml:id="caes0363-3" xml:lang="grc">Ε</orig> <w xml:id="caes0363-4" xml:lang="grc">βαστάζων</w> <orig xml:id="caes0363-5" xml:lang="grc"><unclear>Α</unclear>ΣΥ<unclear>Ι</unclear></orig> <orig xml:id="caes0363-6" xml:lang="grc">ΒΡ</orig> <orig xml:id="caes0363-7" xml:lang="grc">ΙΣΙΧΟ</orig> </p>
+      <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="caes0363-001" xml:lang="grc"><unclear>Π</unclear>Ο</orig> <orig xml:id="caes0363-002" xml:lang="grc"><unclear>Ρ</unclear>ΟΛΟΓ<unclear>ΟΚ</unclear></orig> <orig xml:id="caes0363-003" xml:lang="grc">Ε</orig> <w xml:id="caes0363-004" xml:lang="grc">βαστάζων</w> <orig xml:id="caes0363-005" xml:lang="grc"><unclear>Α</unclear>ΣΥ<unclear>Ι</unclear></orig> <orig xml:id="caes0363-006" xml:lang="grc">ΒΡ</orig> <orig xml:id="caes0363-007" xml:lang="grc">ΙΣΙΧΟ</orig> </p>
 </div>
 </body>
       <back>

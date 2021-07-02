@@ -125,7 +125,7 @@
                <persName xml:lang="la " ref="persons.xml#caes0205p02">Matrona </persName> with their <rs type="family">children</rs>.
 		  </p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0205-1" xml:lang="grc">θήκη</w> <w xml:id="caes0205-2" xml:lang="grc">Ἰσιδώρου</w> <w xml:id="caes0205-3" xml:lang="grc"><expan><abbr>οἰνοπρ</abbr><ex>άτου</ex></expan></w> <w xml:id="caes0205-4" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0205-5" xml:lang="grc">Ματρούνας</w> <w xml:id="caes0205-6" xml:lang="grc">γαμετᾶς</w> <w xml:id="caes0205-7" xml:lang="grc">σὺν</w> <w xml:id="caes0205-8" xml:lang="grc"><expan><abbr>τέκνοι</abbr><ex>ς</ex></expan>.</w></p>
+      <div type="edition" subtype="transcription_segmented"><p> <w xml:id="caes0205-001" xml:lang="grc">θήκη</w> <w xml:id="caes0205-002" xml:lang="grc">Ἰσιδώρου</w> <w xml:id="caes0205-003" xml:lang="grc"><expan><abbr>οἰνοπρ</abbr><ex>άτου</ex></expan></w> <w xml:id="caes0205-004" xml:lang="grc"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w xml:id="caes0205-005" xml:lang="grc">Ματρούνας</w> <w xml:id="caes0205-006" xml:lang="grc">γαμετᾶς</w> <w xml:id="caes0205-007" xml:lang="grc">σὺν</w> <w xml:id="caes0205-008" xml:lang="grc"><expan><abbr>τέκνοι</abbr><ex>ς</ex></expan>.</w></p>
 </div>
 </body>
       <back>

@@ -189,7 +189,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0020-1" xml:lang="grc">Μν<supplied reason="omitted">ησ</supplied>θῇ</w> <orig xml:id="haif0020-2" xml:lang="grc">λκνι</orig> <orig xml:id="haif0020-3" xml:lang="grc">υ</orig> <orig xml:id="haif0020-4" xml:lang="grc">να</orig> <w xml:id="haif0020-5" xml:lang="grc">Λουκίλλις</w> <w xml:id="haif0020-6" xml:lang="grc">κα<supplied reason="lost">ὶ</supplied></w> <orig xml:id="haif0020-7" xml:lang="grc">τεσ</orig> <w xml:id="haif0020-8" xml:lang="grc">οἱ</w> <w xml:id="haif0020-9" xml:lang="grc">φίλοι</w> <w xml:id="haif0020-10" xml:lang="grc"><expan><abbr><unclear>Πτ</unclear>ο</abbr><ex>λεμαίδος</ex></expan></w></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="haif0020-001" xml:lang="grc">Μν<supplied reason="omitted">ησ</supplied>θῇ</w> <orig xml:id="haif0020-002" xml:lang="grc">λκνι</orig> <orig xml:id="haif0020-003" xml:lang="grc">υ</orig> <orig xml:id="haif0020-004" xml:lang="grc">να</orig> <w xml:id="haif0020-005" xml:lang="grc">Λουκίλλις</w> <w xml:id="haif0020-006" xml:lang="grc">κα<supplied reason="lost">ὶ</supplied></w> <orig xml:id="haif0020-007" xml:lang="grc">τεσ</orig> <w xml:id="haif0020-008" xml:lang="grc">οἱ</w> <w xml:id="haif0020-009" xml:lang="grc">φίλοι</w> <w xml:id="haif0020-010" xml:lang="grc"><expan><abbr><unclear>Πτ</unclear>ο</abbr><ex>λεμαίδος</ex></expan></w></p>
 </div>
 </body>
         <back>

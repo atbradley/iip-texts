@@ -148,7 +148,7 @@
                 <p>LΜΡ is also possible instead of LΝΡ; H is possibly a weight mark, probably
                     meaning 1/8, or the short form of ἡμι- ("half").</p>
             </div>
-        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0216-1" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w> <num xml:id="mare0216-2" value="150" xml:lang="grc"><unclear>νρ´</unclear></num> <w xml:id="mare0216-3" xml:lang="grc">ἀγο<supplied reason="lost">ρανομοῦντος</supplied></w> <w xml:id="mare0216-4" xml:lang="grc">Ἀπολλωνίου</w> <w xml:id="mare0216-5" xml:lang="grc">τοῦ</w> <w xml:id="mare0216-6" xml:lang="grc">Διοδώρο<supplied reason="omitted">υ</supplied></w> <num xml:id="mare0216-7" value="8" xml:lang="grc">Η</num></p>
+        <div type="edition" subtype="transcription_segmented"><p><w xml:id="mare0216-001" xml:lang="grc"><expan><abbr><am>L</am></abbr><ex>ἔτους</ex></expan></w> <num xml:id="mare0216-002" value="150" xml:lang="grc"><unclear>νρ´</unclear></num> <w xml:id="mare0216-003" xml:lang="grc">ἀγο<supplied reason="lost">ρανομοῦντος</supplied></w> <w xml:id="mare0216-004" xml:lang="grc">Ἀπολλωνίου</w> <w xml:id="mare0216-005" xml:lang="grc">τοῦ</w> <w xml:id="mare0216-006" xml:lang="grc">Διοδώρο<supplied reason="omitted">υ</supplied></w> <num xml:id="mare0216-007" value="8" xml:lang="grc">Η</num></p>
 </div>
 </body>
         <back>

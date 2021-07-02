@@ -135,7 +135,7 @@
          <div type="translation" ana="#b1" xml:id="hamm0025.translation" corresp="#hamm0025.diplomatic #hamm0025.transcription">
             <p>May (God's) grace be with <persName xml:lang="hbo " ref="persons.xml#hamm0025p01">Heortasius</persName>, the <rs type="occupation">engraver </rs> and <rs type="occupation">juggler</rs>.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0025-1" xml:lang="grc">Εἴε</w> <w xml:id="hamm0025-2" xml:lang="grc">χάρις</w> <w xml:id="hamm0025-3" xml:lang="grc">Ἱορτασίο<supplied reason="undefined">υ</supplied></w> <w xml:id="hamm0025-4" xml:lang="grc">γλύπτου</w> <w xml:id="hamm0025-5" xml:lang="grc">κὴ</w> <orig xml:id="hamm0025-6" xml:lang="grc"><supplied reason="omitted">σ</supplied>φηροπέκτου</orig></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="hamm0025-001" xml:lang="grc">Εἴε</w> <w xml:id="hamm0025-002" xml:lang="grc">χάρις</w> <w xml:id="hamm0025-003" xml:lang="grc">Ἱορτασίο<supplied reason="undefined">υ</supplied></w> <w xml:id="hamm0025-004" xml:lang="grc">γλύπτου</w> <w xml:id="hamm0025-005" xml:lang="grc">κὴ</w> <orig xml:id="hamm0025-006" xml:lang="grc"><supplied reason="omitted">σ</supplied>φηροπέκτου</orig></p>
 </div>
 </body>
       <back>

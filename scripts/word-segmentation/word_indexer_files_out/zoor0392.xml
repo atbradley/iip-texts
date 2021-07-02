@@ -141,7 +141,7 @@
          <div type="translation" ana="#b1" xml:id="zoor0357.translation" corresp="#zoor0357.transcription">
             <p>Lord, grant the person<lb/>who wrote (this)<lb/>two throws of the dice.</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0392-1" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan>,</w> <w xml:id="zoor0392-2" xml:lang="grc"><choice><corr>τῷ</corr><sic>ὁ</sic></choice></w> <w xml:id="zoor0392-3" xml:lang="grc"><choice><corr>γράψαντι</corr><sic>γράψας</sic></choice></w> <w xml:id="zoor0392-4" xml:lang="grc">δὸς</w> <w xml:id="zoor0392-5" xml:lang="grc">χάρησμα</w> <w xml:id="zoor0392-6" xml:lang="grc"><expan><abbr>β</abbr><ex>όλια</ex></expan></w> <num xml:id="zoor0392-7" value="2" xml:lang="lat">I<unclear>I</unclear></num></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="zoor0392-001" xml:lang="grc"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan>,</w> <w xml:id="zoor0392-002" xml:lang="grc"><choice><corr>τῷ</corr><sic>ὁ</sic></choice></w> <w xml:id="zoor0392-003" xml:lang="grc"><choice><corr>γράψαντι</corr><sic>γράψας</sic></choice></w> <w xml:id="zoor0392-004" xml:lang="grc">δὸς</w> <w xml:id="zoor0392-005" xml:lang="grc">χάρησμα</w> <w xml:id="zoor0392-006" xml:lang="grc"><expan><abbr>β</abbr><ex>όλια</ex></expan></w> <num xml:id="zoor0392-007" value="2" xml:lang="lat">I<unclear>I</unclear></num></p>
 </div>
 </body>
       <back>

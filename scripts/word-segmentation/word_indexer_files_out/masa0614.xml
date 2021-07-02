@@ -180,7 +180,7 @@
             </div>
             <!-- The bibl has more contained elements. What is the possible list of values of the biblScope/@type? 
              -->
-        <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="masa0614-1" xml:lang="arc">יל<unclear>א</unclear></orig> <w xml:id="masa0614-2" xml:lang="arc">כתב<supplied reason="lost">ה</supplied></w> </p>
+        <div type="edition" subtype="transcription_segmented"><p> <orig xml:id="masa0614-001" xml:lang="arc">יל<unclear>א</unclear></orig> <w xml:id="masa0614-002" xml:lang="arc">כתב<supplied reason="lost">ה</supplied></w> </p>
 </div>
 </body>
         <back>

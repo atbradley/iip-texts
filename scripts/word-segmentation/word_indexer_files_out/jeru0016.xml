@@ -129,7 +129,7 @@
          <div type="translation" ana="#b1" xml:id="jeru0016.translation" corresp="#jeru0016.diplomatic #jeru0016.transcription">
             <p>Ma[riame](?). Salome. Shalom</p>
          </div>
-      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0016-1" xml:lang="grc">Μα<supplied reason="lost" cert="low">ριάμη</supplied></w> <w xml:id="jeru0016-2" xml:lang="grc">Σαλώμη</w> <w xml:id="jeru0016-3" xml:lang="heb">שלום</w></p>
+      <div type="edition" subtype="transcription_segmented"><p><w xml:id="jeru0016-001" xml:lang="grc">Μα<supplied reason="lost" cert="low">ριάμη</supplied></w> <w xml:id="jeru0016-002" xml:lang="grc">Σαλώμη</w> <w xml:id="jeru0016-003" xml:lang="heb">שלום</w></p>
 </div>
 </body>
       <back>
