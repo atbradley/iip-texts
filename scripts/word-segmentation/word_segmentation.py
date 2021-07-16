@@ -5,6 +5,7 @@ Segment words from the XML files with <w> elements.
 
 DISCLAIMER - this is a prototype and not meant to be used in production
 
+TODO: Better exception handling?
 """
 
 import configparser
@@ -27,6 +28,7 @@ logging.basicConfig(level=loglevel)
 log = logging.getLogger("iip_toolkit")
 log.setLevel(loglevel)
 
+#TODO: Some of this setup probably belongs in a separate utility script.
 
 #Current location, input and output paths.
 #TODO: Here should be the main script's directory. Or use Path.home() as the anchor.
@@ -38,17 +40,6 @@ OUTPATH: Path = HERE / config["word_segmentation"]["outfile_path"]
 if not OUTPATH.exists():
 	OUTPATH.mkdir()
 
-# Get a list of all texts for processing
-# Use command line arguments of the form "file1, file2, file3, etc." when given
-# Otherwise, just use all files in the input directory
-filenames = ParseArguments()
-if filenames is None:
-	infiles = INPATH.glob('*.xml')
-else:
-	infiles = [INPATH / strFilename for strFilename in vFilenames]
-
-infiles = sorted(infiles)
-
 strTextsAll = ""
 strExtraCharacters = ""
 
@@ -57,17 +48,40 @@ vLangs = []
 vFoobarred = []
 
 vAllowedLangs = [ 'arc', 'grc', 'he', 'la', 'x-unknown', 'syc', 'phn', 'xcl', 'Other', 'geo']
-transformationErrors: int = 0
 
+#ns = {'tei': "http://www.tei-c.org/ns/1.0"}
+TEI_NS = "http://www.tei-c.org/ns/1.0"
+XML_NS = "{http://www.w3.org/XML/1998/namespace}"
+NSMAP = {
+	'tei': TEI_NS,
+}
+TEI_NS = "{%s}" % TEI_NS
 
-
+OK = 0
+NO_TRANSCRIPTION = 1
+XXX_INSCRIPTION = 2
+BADLY_FORMED_XML_INPUT = 3
+BADLY_FORMED_XML_OUTPUT = 4
+NOT_ALLOWED_LANG = 5
+MISSING_LANG = 6
+FAILED_WRITING_OUTPUT = 7
 
 # Loop through the list of texts, parse XML, make data frames, save as CSV
-for infile in infiles:
+
+def segment_inscriptions(infile: Path) -> int:
+	def write_output(xml: etree._ElementTree, return_value: int) -> int:
+		try:
+			xmlData = etree.tostring(xml, encoding='utf-8', pretty_print=False, xml_declaration=True)
+			with (OUTPATH / infile.name).open('wb') as file:
+				file.write(xmlData)
+			return return_value
+		except e:
+			log.critical(f"Error writing output for {infile.name}.")
+			return FAILED_WRITING_OUTPUT
 
 	# bypass the xxx inscriptions
 	if "xxx" in str(infile):
-		continue
+		return write_output(xmlText, XXX_INSCRIPTION)
 
 	# Extract the filename for the current text
 	# Use the OS specific directory separator to split path and take the last element
@@ -80,17 +94,8 @@ for infile in infiles:
 	try:
 		xmlText = etree.parse(str(infile), parser)
 	except Exception as e:
-		logging.warn(f'Error with parsing {infilename} text as XML: {e}')
-		transformationErrors += 1
-		continue
-
-	#ns = {'tei': "http://www.tei-c.org/ns/1.0"}
-	TEI_NS = "http://www.tei-c.org/ns/1.0"
-	XML_NS = "{http://www.w3.org/XML/1998/namespace}"
-	nsmap = {
-		'tei': TEI_NS,
-	}
-	TEI_NS = "{%s}" % TEI_NS
+		log.error(f'Error with parsing {infilename} text as XML: {e}')
+		return write_output(xmlText, BADLY_FORMED_XML_INPUT)
 
 	textLang = xmlText.find('.//' + TEI_NS + 'textLang')
 
@@ -101,13 +106,12 @@ for infile in infiles:
 	except:
 		vNoLang.append(infilename)
 		strMainLanguage = 'grc'
-		continue
+		return write_output(xmlText, NOT_ALLOWED_LANG)
 
 	# Find cases where language code is wrong
 	if strMainLanguage not in vAllowedLangs:
-		logging.warn("Error, invalid language (%s) in %s" % (strMainLanguage, infilename))
-		continue
-
+		log.warning("Error, invalid language (%s) in %s" % (strMainLanguage, infilename))
+		return write_output(xmlText, MISSING_LANG)
 
 	vLangs.append(strMainLanguage)
 
@@ -122,22 +126,23 @@ for infile in infiles:
     # test to see if there is a transcription div ?
 
 	#Get a list of all paragraphs in transcription.
-	paragraphs = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription']//tei:p", namespaces=nsmap)
+	paragraphs = xmlText.findall(".//tei:div[@type='edition'][@subtype='transcription']//tei:p", namespaces=NSMAP)
 
 	# Skip it if the text has no textual content,
 	if len(paragraphs) < 1:
-		logging.error('No content ' + infilename)
+		log.warning('No content ' + infilename)
 		vFoobarred.append(infilename)
-		continue
 		# this should copy the file without changing it.
-
-	#Create a new element to store segmented data.
-	body = xmlText.find(".//tei:body", namespaces=nsmap)
-	transcription = xmlText.find(".//tei:div[@type='edition'][@subtype='transcription']", namespaces=nsmap)
-	transcriptionSegmented = copy.deepcopy(transcription)
-	transcriptionSegmented.clear()
-	transcriptionSegmented.attrib['type'] = "edition"
-	transcriptionSegmented.attrib['subtype'] = "transcription_segmented"
+	else:
+		#Create a new element to store segmented data.
+		transcription = xmlText.find(".//tei:div[@type='edition'][@subtype='transcription']", namespaces=NSMAP)
+		transcriptionSegmented = copy.deepcopy(transcription)
+		transcriptionSegmented.clear()
+		transcriptionSegmented.attrib['type'] = "edition"
+		transcriptionSegmented.attrib['subtype'] = "transcription_segmented"
+	
+	
+	body = xmlText.find(".//tei:body", namespaces=NSMAP)
 
 	for para in paragraphs:
 		# Get script/language from attribute on <p> when it exists
@@ -226,36 +231,32 @@ for infile in infiles:
 			transcriptionSegmented.append(editionSegmented)
 			transcriptionSegmented.tail = "\n"
 
-			logging.debug(f"Done parsing {infile.name} as XML")
+			log.debug(f"Done parsing {infile.name} as XML")
 		except Exception as e:
-			logging.error(f'Error with parsing edition {infile.name} as XML: {e}')
-			logging.error(f'Modified XML: {strXMLText}')
-			transformationErrors += 1
-			continue
+			log.error(f'Error with parsing edition {infile.name} as XML: {e}')
+			log.error(f'Modified XML: {strXMLText}')
+			return write_output(xmlText, BADLY_FORMED_XML_OUTPUT)
 
 		body.append(transcriptionSegmented)
 
+	return write_output(xmlText, OK)
 
 
-	# In a separate script now.
-	if False:
-		## all child nodes should have ids
-		wordElems = editionSegmented.findall(".//tei:w", namespaces=nsmap)
-		for i, wordElem in enumerate(wordElems):
-			wordElem.attrib[XML_NS + 'id'] = '{}-{}'.format(os.path.splitext(infilename)[0], i + 1)
-			has_foreign_elem = False
-			for child in wordElem:
-				if child.tag == '{http://www.tei-c.org/ns/1.0}supplied' and XML_NS + 'lang' in child.attrib:
-					wordElem.attrib[XML_NS + 'lang'] = child.attrib[XML_NS + 'lang']
-					has_foreign_elem = True
-			if not has_foreign_elem:
-				wordElem.attrib[XML_NS + 'lang'] = strMainLanguage
-
-
-	xmlData = etree.tostring(xmlText, encoding='utf-8', pretty_print=False, xml_declaration=True)
-
-	with (OUTPATH / infile.name).open('wb') as file:
-		file.write(xmlData)
 
 	# strXMLText = re.sub(r"<lb break=\"no\"(\s*)/>", "¶", strXMLText)
 
+if __name__ == "__main__":
+	# Get a list of all texts for processing
+	# Use command line arguments of the form "file1, file2, file3, etc." when given
+	# Otherwise, just use all files in the input directory
+	filenames = ParseArguments()
+	if filenames is None:
+		infiles = INPATH.glob('*.xml')
+	else:
+		infiles = [INPATH / strFilename for strFilename in vFilenames]
+
+	transform_errors: int = 0
+
+	infiles = sorted(infiles)
+	for infile in infiles:
+		transform_errors += (1 if segment_inscriptions(infile) > 2 else 0)
